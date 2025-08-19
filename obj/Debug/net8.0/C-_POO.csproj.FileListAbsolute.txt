@@ -1,0 +1,15 @@
+/workspaces/C-_POO/bin/Debug/net8.0/C-_POO
+/workspaces/C-_POO/bin/Debug/net8.0/C-_POO.deps.json
+/workspaces/C-_POO/bin/Debug/net8.0/C-_POO.runtimeconfig.json
+/workspaces/C-_POO/bin/Debug/net8.0/C-_POO.dll
+/workspaces/C-_POO/bin/Debug/net8.0/C-_POO.pdb
+/workspaces/C-_POO/obj/Debug/net8.0/C-_POO.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-_POO/obj/Debug/net8.0/C-_POO.AssemblyInfoInputs.cache
+/workspaces/C-_POO/obj/Debug/net8.0/C-_POO.AssemblyInfo.cs
+/workspaces/C-_POO/obj/Debug/net8.0/C-_POO.csproj.CoreCompileInputs.cache
+/workspaces/C-_POO/obj/Debug/net8.0/C-_POO.sourcelink.json
+/workspaces/C-_POO/obj/Debug/net8.0/C-_POO.dll
+/workspaces/C-_POO/obj/Debug/net8.0/refint/C-_POO.dll
+/workspaces/C-_POO/obj/Debug/net8.0/C-_POO.pdb
+/workspaces/C-_POO/obj/Debug/net8.0/C-_POO.genruntimeconfig.cache
+/workspaces/C-_POO/obj/Debug/net8.0/ref/C-_POO.dll
