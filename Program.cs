@@ -1,6 +1,4 @@
 ﻿using C__POO.Models;
 
-
-Corrente c1 = new Corrente();
-c1.Creditar(500);
-c1.ExicibirSaldo();
+Nokia n1 = new Nokia();
+n1.ModeloCel("1111-1111", "Nokia", "123456789", 128);
